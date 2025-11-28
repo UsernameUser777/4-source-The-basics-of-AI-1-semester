@@ -1,0 +1,16 @@
+Dataset_ID,Name,Description,Observations,Depth_n,Horizon_m,Period,Classes,Min_Value,Max_Value,Recommended_Hidden_Neurons
+1,Stock_Prices,Daily stock prices with growth trend,101,5,1,Daily,3,50.00,140.00,8-12
+2,Air_Temperature,Weekly average temperature with seasonality,104,4,1,Weekly,3,-5.00,25.00,6-10
+3,Airport_Passengers,Weekly passenger traffic with double seasonality,104,8,1,Weekly,3,30000.00,170000.00,12-18
+4,Store_Sales,Weekly retail sales with monthly/yearly seasonality,52,6,1,Weekly,3,1000.00,9000.00,10-16
+5,Water_Level,Weekly river water level data,104,4,1,Weekly,3,5.00,15.00,6-10
+6,Power_Load,Hourly electricity grid load,168,24,1,Hourly,3,100.00,700.00,30-50
+7,Internet_Bandwidth,Hourly internet channel bandwidth,336,6,1,Hourly,3,50.00,900.00,12-18
+8,Disease_Cases,Weekly flu cases with seasonality,104,8,1,Weekly,3,5.00,250.00,12-18
+9,EUR_USD_Exchange,Daily EUR/USD exchange rate,101,5,1,Daily,3,0.95,1.15,8-12
+10,Website_Visits,Daily website visitor count,120,7,1,Daily,3,100.00,1500.00,10-15
+11,Oil_Price,Daily crude oil Brent price,121,10,1,Daily,3,30.00,110.00,15-25
+12,Loan_Applications,Weekly loan applications count,52,4,1,Weekly,3,10.00,100.00,6-10
+13,Wind_Power,Hourly wind power generation,96,12,1,Hourly,3,5.00,200.00,18-30
+14,Unemployment_Rate,Weekly unemployment rate percentage,52,13,1,Weekly,3,3.50,7.50,15-25
+15,Sensor_Events,Hourly sensor trigger count,168,6,1,Hourly,3,1.00,80.00,12-18
